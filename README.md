@@ -1,4 +1,4 @@
-# ES5-to-ES6-quick-note
+# ES5-to-ES6-quick-note (WIP)
 
 #####Fat Arrow :
 Arrows are a function shorthand using the => syntax. They are syntactically similar to the related feature in C#, Java 8 and CoffeeScript. They support both expression and statement bodies.
